@@ -1,0 +1,21 @@
+p{
+    color: green;
+}
+
+h1{
+    color:khaki;
+}
+
+table{
+    font-family:cursive;
+    border-collapse:collapse;
+    border-width: 1px;
+    border-style:dotted;
+    border-color:orchid;
+
+}
+th{
+    font-weight:600;
+    background-color:violet;
+    color:turquoise;
+}
